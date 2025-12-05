@@ -1,0 +1,58 @@
+@media screen and (max-width: 992px) {
+    .hero-content {
+        flex-direction: column;
+    }
+
+    .hero-right {
+        width: 100%;
+    }
+
+    .hero-left {
+        padding-left: 20px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+
+    .about-us-left {
+        margin-left: 0px;
+    }
+
+    .about-us-right,
+    .what-we-do-left,
+    .contact-us-right,
+    footer {
+        text-align: center;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* .about-us-right h2::after,
+  .what-we-do-left h2::after {
+    display: none;
+  } */
+
+    .what-we-do .row {
+        flex-direction: column-reverse;
+    }
+
+    .what-we-do-right {
+        margin-right: 0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

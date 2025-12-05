@@ -1,0 +1,17 @@
+:root {
+    --heading_1: 66px;
+    --heading_2: 48px;
+    --heading_3: 24px;
+    --heading_4: 20px;
+    --paragraph_1: 16px;
+    --paragraph_2: 18px;
+    --black_text_color: #053634;
+    --green_color: #17EB76;
+    --background_color_1: #F8F6F1;
+    --background_color_2: #F0F1EA;
+    --button_color: #053634;
+}
+
+body {
+    background-color: var(--background_color_1) !important;
+}
